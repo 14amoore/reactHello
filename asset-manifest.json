@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/reactHello/static/css/main.e5716b13.chunk.css",
+    "main.js": "/reactHello/static/js/main.500a7298.chunk.js",
+    "main.js.map": "/reactHello/static/js/main.500a7298.chunk.js.map",
+    "runtime~main.js": "/reactHello/static/js/runtime~main.5f5bdbbd.js",
+    "runtime~main.js.map": "/reactHello/static/js/runtime~main.5f5bdbbd.js.map",
+    "static/js/2.b41502e9.chunk.js": "/reactHello/static/js/2.b41502e9.chunk.js",
+    "static/js/2.b41502e9.chunk.js.map": "/reactHello/static/js/2.b41502e9.chunk.js.map",
+    "index.html": "/reactHello/index.html",
+    "precache-manifest.1750f398e04763840caa5d7afdae044a.js": "/reactHello/precache-manifest.1750f398e04763840caa5d7afdae044a.js",
+    "service-worker.js": "/reactHello/service-worker.js",
+    "static/css/main.e5716b13.chunk.css.map": "/reactHello/static/css/main.e5716b13.chunk.css.map",
+    "static/media/taz.png": "/reactHello/static/media/taz.033fb410.png"
+  }
+}
